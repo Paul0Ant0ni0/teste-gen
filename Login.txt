@@ -1,0 +1,9 @@
+Comandos Git
+
+Git bash here dentro da pasta que vc quer fazer o versionamento de código
+
+git init
+git add
+git commit
+git push
+
